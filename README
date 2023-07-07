@@ -1,0 +1,27 @@
+LOC za ceo projekat uključujući i LICENSE je 188 + 26 + 21 = 235 uključujući i prazne linije
+
+
+
+Calculator.java, Ln 14, nepoštovanje pravila pisanja koda ToString treba da piše malim slovima toString, metode se imenuju početnim malim slovom
+Calculator.java, Ln 24 nepoštovanje pravila pisanja koda Run treba da piše malim slovima run, metode se imenuju početnim malim slovom
+Calculator.java, Ln 70 nepotrebno dodeljivanje vrednosti pošto se odmah vraća rezultat
+Calculator.java, Ln 74 nepoštovanje pravila pisanja koda Calculate treba da piše malim slovima calculate, metode se imenuju početnim malim slovom
+Calculator.java, Ln 183, return je višak, calculate metoda će biti tavršena u svakom slučaju.
+
+
+
+Start.java, LOC – 26,
+
+Start.java, Ln 6, imena promenjivih treba da počnu malim slovom
+
+
+
+LICENSE, LOC – 17,
+
+Ciklosomatska složenost:
+metoda evaluateExpression je 6
+metoda Calculate je 9
+
+Kognitivna složenost:
+metoda evaluateExpression je 17
+metoda Calculate je 15
