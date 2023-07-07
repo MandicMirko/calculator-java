@@ -9,14 +9,9 @@ Calculator.java, Ln 74 nepoštovanje pravila pisanja koda Calculate treba da pi�
 Calculator.java, Ln 183, return je višak, calculate metoda će biti tavršena u svakom slučaju.
 
 
-
-Start.java, LOC – 26,
-
 Start.java, Ln 6, imena promenjivih treba da počnu malim slovom
 
 
-
-LICENSE, LOC – 17,
 
 Ciklosomatska složenost:
 metoda evaluateExpression je 6
