@@ -2,21 +2,23 @@ LOC za ceo projekat uključujući i LICENSE je 188 + 26 + 21 = 235 uključujući
 
 
 
+Calculator.java, Ln 4, Dodati privatni konstrukror da bi se sakrio podrazumevani javni (Calculator)
 Calculator.java, Ln 14, nepoštovanje pravila pisanja koda ToString treba da piše malim slovima toString, metode se imenuju početnim malim slovom
 Calculator.java, Ln 24 nepoštovanje pravila pisanja koda Run treba da piše malim slovima run, metode se imenuju početnim malim slovom
 Calculator.java, Ln 70 nepotrebno dodeljivanje vrednosti pošto se odmah vraća rezultat
 Calculator.java, Ln 74 nepoštovanje pravila pisanja koda Calculate treba da piše malim slovima calculate, metode se imenuju početnim malim slovom
-Calculator.java, Ln 183, return je višak, calculate metoda će biti tavršena u svakom slučaju.
+Calculator.java, Ln 183, return je višak, calculate metoda će biti završena u svakom slučaju.
 
 
 Start.java, Ln 6, imena promenjivih treba da počnu malim slovom
-
+Start.java, Ln 8, zamentiti System.out.println sa logerom,  logger.log("My Message");
+Start.java, Ln 19, zamentiti System.out.println sa logerom,  logger.log("My Message");
 
 
 Ciklosomatska složenost:
-metoda evaluateExpression je 6
-metoda Calculate je 9
+    metoda evaluateExpression je 12, umereno kompleksan kod (umeren rizik)
+    metoda Calculate je 12, umereno kopleksan kod (umeren rizik)
 
 Kognitivna složenost:
-metoda evaluateExpression je 17
-metoda Calculate je 15
+    metoda evaluateExpression je 18 
+    metoda Calculate je 15 
