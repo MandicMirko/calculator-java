@@ -1,0 +1,17 @@
+# Testiranje Bleck box
+
+# Osnovne matematicke radnje su tacne
+
+# ne podzava rad sa zagradama u matematickom izrazu, prikazuje gresku
+
+# prilikom deljenja 1 sa 1000 daje tacan rezutal,
+# ali prilikom deljienja 1 sa 10 hiljada ne daje cifru vec prijavljuje eksponencijalnu vrednos e,
+# obicni digitroni to prikazuju bez problema
+
+# ako se unesu slova umesto brojeva prijavljuje gresku (error) ali ne izlazi iz programa nego,
+# nastavlja rad dalje tj. ceka sledeci unos
+
+# Prilikom mnozenja izrazito velikih brojeva preko milion ne pokazuje tacnu cifru, 
+# nego eksponencijalnu vrednost e12 itd
+
+#  Podrzavasamo osnovne matematicke radnje
